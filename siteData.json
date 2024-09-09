@@ -15,44 +15,109 @@
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic1.md",
-      "title": "Topic 1",
+      "src": "materi_cpp/motivasi/motivasi.md",
+      "title": "Kenapa C++?",
       "headings": {
-        "topic-1": "Topic 1"
+        "kenapa-c": "Kenapa C++?"
       },
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic2.md",
-      "title": "Topic 2",
+      "src": "materi_cpp/unduh_ide/unduh_ide.md",
+      "title": "Unduh IDE",
       "headings": {
-        "topic-2": "Topic 2"
+        "unduh-ide": "Unduh IDE"
       },
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic3a.md",
-      "title": "Topic 3a",
+      "src": "materi_icpc_misc/polinomial/big_int.md",
+      "title": "Big Integer",
       "headings": {
-        "topic-3a": "Topic 3a"
+        "big-integer": "Big Integer"
       },
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic3b.md",
-      "title": "Topic 3b",
+      "src": "materi_icpc_misc/polinomial/fft.md",
+      "title": "Fast Fourier Transform",
       "headings": {
-        "topic-3b": "Topic 3b"
+        "fast-fourier-transform": "Fast Fourier Transform"
       },
       "headingKeywords": {}
     },
     {
-      "src": "index.md",
-      "title": "Home Page",
+      "src": "materi_icpc_misc/polinomial/polinomial.md",
+      "title": "Polinomial",
       "headings": {
-        "what-just-happened": "What just happened?",
-        "navigating-this-site": "Navigating this site",
-        "guide-to-markbind": "Guide to MarkBind"
+        "polinomial": "Polinomial"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_ioi/advanced_dnc/mitm.md",
+      "title": "Meet in the Middle",
+      "headings": {
+        "meet-in-the-middle": "Meet in the Middle",
+        "lets-be-honest-no-one-uses-this-anymore-and-that-s-kinda-sad": "lets be honest no one uses this anymore, and that's kinda sad"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_ioi/advanced_dnc/parallel_binser.md",
+      "title": "Parallel Binary Search",
+      "headings": {
+        "parallel-binary-search": "Parallel Binary Search",
+        "this-material-kinda-goated-though": "This material kinda goated though"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_ioi/advanced_dnc/ternary_search.md",
+      "title": "Ternary Search",
+      "headings": {
+        "ternary-search": "Ternary Search"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_ioi/complexity_analysis/complexity_analysis.md",
+      "title": "Complexity Analysis",
+      "headings": {
+        "complexity-analysis": "Complexity Analysis"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_osn/brute_force/brute_force.md",
+      "title": "Brute Force",
+      "headings": {
+        "brute-force": "Brute Force"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_osn/sort_and_search/binary_search.md",
+      "title": "Binary Search",
+      "headings": {
+        "binary-search": "Binary Search",
+        "answer-to-all-interactive-problems": "Answer to all interactive problems"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_osn/sort_and_search/sort_bf.md",
+      "title": "Pengurutan: Konsep Dasar",
+      "headings": {
+        "pengurutan-konsep-dasar": "Pengurutan: Konsep Dasar"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "materi_osn/sort_and_search/std_sort.md",
+      "title": "Pengurutan: Fungsi C++",
+      "headings": {
+        "pengurutan-fungsi-c": "Pengurutan: Fungsi C++"
       },
       "headingKeywords": {}
     }
